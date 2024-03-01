@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 My name is Kartik Subhash Mahurkar.
 
-![](https://hit.yhype.me/github/profile?user_id=75329345)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=75329345) -->
 
 🤔 Feeling the same? 🚀
 
@@ -43,8 +43,7 @@ My name is Kartik Subhash Mahurkar.
 
 
 <!-- [Ÿ HŸPE]: https://yhype.me -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
-[GitHub ]: https://github.com/mkseey
+<!-- [GitHub ]: https://github.com/mkseey -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=mkseey)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkseey)
 
